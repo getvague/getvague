@@ -5,7 +5,7 @@
 ```csharp
 github.com/getvague
 dc   $  @undefined.dll
-srv  $  defined.vercel.app
+web  $  defined.vercel.app
 ```
 ‌ ‌
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=getvague" alt="Profile Views"> </p> 
