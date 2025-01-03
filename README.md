@@ -7,5 +7,7 @@ github.com/getvague
 dc   $  @undefined.dll
 web  $  defined.vercel.app
 ```
+
+![Discord Presence](https://lanyard.cnrad.dev/api/1082690591156088932)
 ‌ ‌
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=getvague" alt="Profile Views"> </p> 
