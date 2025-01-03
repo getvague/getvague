@@ -5,7 +5,7 @@
 ```csharp
 github.com/getvague
 dc   $  @undefined.dll
-web  $  defined.vercel.app
+web  $  undefined.moonsveil.xyz
 ```
 
 ![Discord Presence](https://lanyard.cnrad.dev/api/1082690591156088932)
